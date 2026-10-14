@@ -1,0 +1,227 @@
+{
+  "preloader": {
+    "files": [
+      {
+        "type": "atlas",
+        "key": "ui-atlas",
+        "textureURL": "assets/imgs/atlas/ui-atlas.png",
+        "atlasURL": "assets/imgs/atlas/ui-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "win-atlas",
+        "textureURL": "assets/imgs/atlas/win-atlas.png",
+        "atlasURL": "assets/imgs/atlas/win-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "treasurebox-atlas",
+        "textureURL": "assets/imgs/atlas/treasurebox-atlas.png",
+        "atlasURL": "assets/imgs/atlas/treasurebox-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "topdown-atlas",
+        "textureURL": "assets/imgs/atlas/topdown-atlas.png",
+        "atlasURL": "assets/imgs/atlas/topdown-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_transition-atlas",
+        "textureURL": "assets/imgs/atlas/animation_transition-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_transition-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_pikachu-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_pikachu-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_pikachu-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_pikachu_effects-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_pikachu_effects-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_pikachu_effects-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_oshawott-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_oshawott-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_oshawott-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_tepig-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_tepig-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_tepig-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_snivy-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_snivy-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_snivy-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_grimace-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_grimace-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_grimace-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_grimace_effects-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_grimace_effects-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_grimace_effects-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_jigglypuff-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_jigglypuff-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_jigglypuff-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_jigglypuff_effects-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_jigglypuff_effects-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_jigglypuff_effects-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_mcdonaldsCustomer-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_mcdonaldsCustomer-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_mcdonaldsCustomer-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_miltank-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_miltank-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_miltank-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_mysteriousStranger-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_mysteriousStranger-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_mysteriousStranger-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_mysteriousStranger_effects-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_mysteriousStranger_effects-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_mysteriousStranger_effects-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_ronald-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_ronald-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_ronald-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_slaughterhouseWorkers-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_slaughterhouseWorkers-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_slaughterhouseWorkers-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_slaughterhouseWorkers_effects-atlas",
+        "textureURL": "assets/imgs/atlas/animation_asset_slaughterhouseWorkers_effects-atlas.png",
+        "atlasURL": "assets/imgs/atlas/animation_asset_slaughterhouseWorkers_effects-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "mapBackgrounds-atlas",
+        "textureURL": "assets/imgs/atlas/mapBackgrounds-atlas.png",
+        "atlasURL": "assets/imgs/atlas/mapBackgrounds-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "BattleManager_background-atlas",
+        "textureURL": "assets/imgs/atlas/BattleManager_background-atlas.png",
+        "atlasURL": "assets/imgs/atlas/BattleManager_background-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+
+      {"type":"audio","key":"MusicBattle","url":["assets/sound/mp3/MusicBattle.mp3","assets/sound/ogg/MusicBattle.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicBattle2","url":["assets/sound/mp3/MusicBattle2.mp3","assets/sound/ogg/MusicBattle2.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicMain2","url":["assets/sound/mp3/MusicMain2.mp3","assets/sound/ogg/MusicMain2.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicMap","url":["assets/sound/mp3/MusicMap.mp3","assets/sound/ogg/MusicMap.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicWin","url":["assets/sound/mp3/MusicWin.mp3","assets/sound/ogg/MusicWin.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundButtonPress","url":["assets/sound/mp3/SoundButtonPress.mp3","assets/sound/ogg/SoundButtonPress.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundButtonRollover","url":["assets/sound/mp3/SoundButtonRollover.mp3","assets/sound/ogg/SoundButtonRollover.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundChest","url":["assets/sound/mp3/SoundChest.mp3","assets/sound/ogg/SoundChest.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundChestAppear","url":["assets/sound/mp3/SoundChestAppear.mp3","assets/sound/ogg/SoundChestAppear.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundDialog","url":["assets/sound/mp3/SoundDialog.mp3","assets/sound/ogg/SoundDialog.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundDialogReveal","url":["assets/sound/mp3/SoundDialogReveal.mp3","assets/sound/ogg/SoundDialogReveal.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundDodge","url":["assets/sound/mp3/SoundDodge.mp3","assets/sound/ogg/SoundDodge.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundError","url":["assets/sound/mp3/SoundError.mp3","assets/sound/ogg/SoundError.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundPoison","url":["assets/sound/mp3/SoundPoison.mp3","assets/sound/ogg/SoundPoison.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundStatDown","url":["assets/sound/mp3/SoundStatDown.mp3","assets/sound/ogg/SoundStatDown.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundStatUp","url":["assets/sound/mp3/SoundStatUp.mp3","assets/sound/ogg/SoundStatUp.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundSwitchPokemon","url":["assets/sound/mp3/SoundSwitchPokemon.mp3","assets/sound/ogg/SoundSwitchPokemon.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundTrap","url":["assets/sound/mp3/SoundTrap.mp3","assets/sound/ogg/SoundTrap.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundTeleport","url":["assets/sound/mp3/SoundTeleport.mp3","assets/sound/ogg/SoundTeleport.ogg"],"autoDecode":true},
+      {"type":"audio","key":"36","url":["assets/sound/mp3/36.mp3","assets/sound/ogg/36.ogg"],"autoDecode":true},
+      {"type":"audio","key":"80","url":["assets/sound/mp3/80.mp3","assets/sound/ogg/80.ogg"],"autoDecode":true},
+      {"type":"audio","key":"105","url":["assets/sound/mp3/105.mp3","assets/sound/ogg/105.ogg"],"autoDecode":true},
+      {"type":"audio","key":"82","url":["assets/sound/mp3/82.mp3","assets/sound/ogg/82.ogg"],"autoDecode":true},
+      {"type":"audio","key":"95","url":["assets/sound/mp3/95.mp3","assets/sound/ogg/95.ogg"],"autoDecode":true},
+      {"type":"audio","key":"187","url":["assets/sound/mp3/187.mp3","assets/sound/ogg/187.ogg"],"autoDecode":true},
+      {"type":"audio","key":"37","url":["assets/sound/mp3/37.mp3","assets/sound/ogg/37.ogg"],"autoDecode":true},
+      {"type":"audio","key":"92","url":["assets/sound/mp3/92.mp3","assets/sound/ogg/92.ogg"],"autoDecode":true},
+      {"type":"audio","key":"131","url":["assets/sound/mp3/131.mp3","assets/sound/ogg/131.ogg"],"autoDecode":true},
+      {"type":"audio","key":"38","url":["assets/sound/mp3/38.mp3","assets/sound/ogg/38.ogg"],"autoDecode":true},
+      {"type":"audio","key":"52","url":["assets/sound/mp3/52.mp3","assets/sound/ogg/52.ogg"],"autoDecode":true},
+      {"type":"audio","key":"128","url":["assets/sound/mp3/128.mp3","assets/sound/ogg/128.ogg"],"autoDecode":true},
+      {"type":"audio","key":"158","url":["assets/sound/mp3/158.mp3","assets/sound/ogg/158.ogg"],"autoDecode":true},
+      {"type":"audio","key":"75","url":["assets/sound/mp3/75.mp3","assets/sound/ogg/75.ogg"],"autoDecode":true},
+      {"type":"audio","key":"159","url":["assets/sound/mp3/159.mp3","assets/sound/ogg/159.ogg"],"autoDecode":true},
+      {"type":"audio","key":"167","url":["assets/sound/mp3/167.mp3","assets/sound/ogg/167.ogg"],"autoDecode":true},
+      {"type":"audio","key":"43","url":["assets/sound/mp3/43.mp3","assets/sound/ogg/43.ogg"],"autoDecode":true},
+      {"type":"audio","key":"61","url":["assets/sound/mp3/61.mp3","assets/sound/ogg/61.ogg"],"autoDecode":true},
+      {"type":"audio","key":"85","url":["assets/sound/mp3/61.mp3","assets/sound/ogg/85.ogg"],"autoDecode":true},
+      {"type":"audio","key":"94","url":["assets/sound/mp3/94.mp3","assets/sound/ogg/94.ogg"],"autoDecode":true},
+      {"type":"audio","key":"133","url":["assets/sound/mp3/133.mp3","assets/sound/ogg/133.ogg"],"autoDecode":true},
+      {"type":"audio","key":"146","url":["assets/sound/mp3/146.mp3","assets/sound/ogg/146.ogg"],"autoDecode":true},
+      {"type":"audio","key":"39","url":["assets/sound/mp3/39.mp3","assets/sound/ogg/39.ogg"],"autoDecode":true},
+      {"type":"audio","key":"96","url":["assets/sound/mp3/96.mp3","assets/sound/ogg/96.ogg"],"autoDecode":true},
+      {"type":"audio","key":"100","url":["assets/sound/mp3/100.mp3","assets/sound/ogg/100.ogg"],"autoDecode":true},
+      {"type":"audio","key":"115","url":["assets/sound/mp3/115.mp3","assets/sound/ogg/115.ogg"],"autoDecode":true},
+      {"type":"audio","key":"117","url":["assets/sound/mp3/117.mp3","assets/sound/ogg/117.ogg"],"autoDecode":true},
+      {"type":"audio","key":"183","url":["assets/sound/mp3/183.mp3","assets/sound/ogg/183.ogg"],"autoDecode":true},
+      {"type":"audio","key":"49","url":["assets/sound/mp3/49.mp3","assets/sound/ogg/49.ogg"],"autoDecode":true},
+      {"type":"audio","key":"66","url":["assets/sound/mp3/66.mp3","assets/sound/ogg/66.ogg"],"autoDecode":true},
+      {"type":"audio","key":"153","url":["assets/sound/mp3/153.mp3","assets/sound/ogg/153.ogg"],"autoDecode":true},
+      {"type":"audio","key":"48","url":["assets/sound/mp3/48.mp3","assets/sound/ogg/48.ogg"],"autoDecode":true},
+      {"type":"audio","key":"76","url":["assets/sound/mp3/76.mp3","assets/sound/ogg/76.ogg"],"autoDecode":true}
+    ]
+  },
+  "meta": {
+    "generated": "1548311514538",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}

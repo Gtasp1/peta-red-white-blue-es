@@ -1,0 +1,5883 @@
+{"frames": [
+
+{
+	"filename": "_AttackButton_background0000",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0001",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0002",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0003",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0004",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0005",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0006",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0007",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0008",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0009",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0010",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0011",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0012",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0013",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0014",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0015",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0016",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0017",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0018",
+	"frame": {"x":1903,"y":1440,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0019",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0020",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0021",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0022",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0023",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0024",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0025",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0026",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0027",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0028",
+	"frame": {"x":1637,"y":1595,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0029",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0030",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0031",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0032",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0033",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0034",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0035",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0036",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0037",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0038",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0039",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0040",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0041",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0042",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0043",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0044",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0045",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0046",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0047",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0048",
+	"frame": {"x":1766,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0049",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0050",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0051",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0052",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0053",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0054",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0055",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0056",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0057",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0058",
+	"frame": {"x":1895,"y":1605,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0059",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0060",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0061",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0062",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0063",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0064",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0065",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0066",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0067",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0068",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0069",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0070",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0071",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0072",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0073",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0074",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0075",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0076",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0077",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0078",
+	"frame": {"x":416,"y":1611,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0079",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0080",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0081",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0082",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0083",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0084",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0085",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0086",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0087",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0088",
+	"frame": {"x":1057,"y":1613,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0089",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0090",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0091",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0092",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0093",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0094",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0095",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0096",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0097",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0098",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0099",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0100",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0101",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0102",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0103",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0104",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0105",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0106",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0107",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0108",
+	"frame": {"x":545,"y":1617,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0109",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0110",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0111",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0112",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0113",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0114",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0115",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0116",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0117",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0118",
+	"frame": {"x":1473,"y":1636,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0119",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0120",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0121",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0122",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0123",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0124",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0125",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0126",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0127",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0128",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0129",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0130",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0131",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0132",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0133",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0134",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0135",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0136",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0137",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0138",
+	"frame": {"x":1186,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0139",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0140",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0141",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0142",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0143",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0144",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0145",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0146",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0147",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0148",
+	"frame": {"x":1315,"y":1637,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0149",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0150",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0151",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0152",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0153",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0154",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0155",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0156",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0157",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0158",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0159",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0160",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0161",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0162",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0163",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0164",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0165",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0166",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0167",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0168",
+	"frame": {"x":2,"y":1640,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0169",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0170",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0171",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0172",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0173",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0174",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0175",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0176",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0177",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_background0178",
+	"frame": {"x":131,"y":1644,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":49},
+	"sourceSize": {"w":127,"h":49}
+}
+,{
+	"filename": "_AttackButton_hoverImage0000",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0001",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0002",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0003",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0004",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0005",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0006",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0007",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0008",
+	"frame": {"x":643,"y":1556,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0009",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0010",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0011",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0012",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0013",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0014",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0015",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0016",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0017",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0018",
+	"frame": {"x":2,"y":1579,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0019",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0020",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0021",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0022",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0023",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0024",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0025",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0026",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0027",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0028",
+	"frame": {"x":140,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0029",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0030",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0031",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0032",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0033",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0034",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0035",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0036",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0037",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0038",
+	"frame": {"x":278,"y":1583,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0039",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0040",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0041",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0042",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0043",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0044",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0045",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0046",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0047",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0048",
+	"frame": {"x":781,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0049",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0050",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0051",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0052",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0053",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0054",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0055",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0056",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0057",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_AttackButton_hoverImage0058",
+	"frame": {"x":919,"y":1586,"w":136,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":59},
+	"sourceSize": {"w":136,"h":59}
+}
+,{
+	"filename": "_CreditsBG0000",
+	"frame": {"x":604,"y":2,"w":600,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":500},
+	"sourceSize": {"w":600,"h":500}
+}
+,{
+	"filename": "_GameAlmostWin_0000",
+	"frame": {"x":2,"y":504,"w":600,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":500},
+	"sourceSize": {"w":600,"h":500}
+}
+,{
+	"filename": "_GameWinBG0000",
+	"frame": {"x":1206,"y":2,"w":600,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":500},
+	"sourceSize": {"w":600,"h":500}
+}
+,{
+	"filename": "_HealthBar_green0000",
+	"frame": {"x":1639,"y":1429,"w":203,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":9},
+	"sourceSize": {"w":203,"h":9}
+}
+,{
+	"filename": "_HealthBar_red0000",
+	"frame": {"x":538,"y":1477,"w":203,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":10},
+	"sourceSize": {"w":203,"h":10}
+}
+,{
+	"filename": "_HealthBar_yellow0000",
+	"frame": {"x":1639,"y":1417,"w":203,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":10},
+	"sourceSize": {"w":203,"h":10}
+}
+,{
+	"filename": "_Help_bg0000",
+	"frame": {"x":2,"y":2,"w":600,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":500},
+	"sourceSize": {"w":600,"h":500}
+}
+,{
+	"filename": "_OpponentBattleInfo_background0000",
+	"frame": {"x":809,"y":1505,"w":242,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":28},
+	"sourceSize": {"w":242,"h":28}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0000",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0001",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0002",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0003",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0004",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0005",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0006",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0007",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0008",
+	"frame": {"x":1380,"y":1450,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0009",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0010",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0011",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0012",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0013",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0014",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0015",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0016",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0017",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_background0018",
+	"frame": {"x":2,"y":1478,"w":256,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":37},
+	"sourceSize": {"w":256,"h":37}
+}
+,{
+	"filename": "_PlayerBattleInfo_fg0000",
+	"frame": {"x":1978,"y":361,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":30},
+	"sourceSize": {"w":27,"h":30}
+}
+,{
+	"filename": "_PokemonSelectButton_background0000",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0001",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0002",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0003",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0004",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0005",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0006",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0007",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0008",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0009",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0010",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0011",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0012",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0013",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0014",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0015",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0016",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0017",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0018",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0019",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0020",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0021",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0022",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0023",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0024",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0025",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0026",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0027",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0028",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0029",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0030",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0031",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0032",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0033",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0034",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0035",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0036",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0037",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0038",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0039",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0040",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0041",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0042",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0043",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0044",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0045",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0046",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0047",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0048",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0049",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0050",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0051",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0052",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0053",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0054",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0055",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0056",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0057",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0058",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-301,"y":163,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0059",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0060",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0061",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0062",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0063",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0064",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0065",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0066",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0067",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0068",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0069",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0070",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0071",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0072",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0073",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0074",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0075",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0076",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0077",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0078",
+	"frame": {"x":795,"y":1454,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0079",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0080",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0081",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0082",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0083",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0084",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0085",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0086",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0087",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0088",
+	"frame": {"x":267,"y":1477,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0089",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0090",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0091",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0092",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0093",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0094",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0095",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0096",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0097",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0098",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0099",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0100",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0101",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0102",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0103",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0104",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0105",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0106",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0107",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0108",
+	"frame": {"x":1380,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0109",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0110",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0111",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0112",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0113",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0114",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0115",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0116",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0117",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0118",
+	"frame": {"x":1651,"y":1493,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0119",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0120",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0121",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0122",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0123",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0124",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0125",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0126",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0127",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0128",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0129",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0130",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0131",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0132",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0133",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0134",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0135",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0136",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0137",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0138",
+	"frame": {"x":1066,"y":1501,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0139",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0140",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0141",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0142",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0143",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0144",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0145",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0146",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0147",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0148",
+	"frame": {"x":538,"y":1505,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0149",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0150",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0151",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0152",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0153",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0154",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0155",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0156",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0157",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0158",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0159",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0160",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0161",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0162",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0163",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0164",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0165",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0166",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0167",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0168",
+	"frame": {"x":2,"y":1528,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0169",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0170",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0171",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0172",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0173",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0174",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0175",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0176",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0177",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0178",
+	"frame": {"x":1337,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0179",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0180",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0181",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0182",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0183",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0184",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0185",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0186",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0187",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0188",
+	"frame": {"x":1109,"y":1450,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0189",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0190",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0191",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0192",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0193",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0194",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0195",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0196",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0197",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background0198",
+	"frame": {"x":1608,"y":1544,"w":269,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":49},
+	"sourceSize": {"w":269,"h":49}
+}
+,{
+	"filename": "_PokemonSelectButton_background_disabled0000",
+	"frame": {"x":1718,"y":1006,"w":86,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":54},
+	"sourceSize": {"w":86,"h":54}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0000",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0001",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0002",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0003",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0004",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0005",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0006",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0007",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0008",
+	"frame": {"x":826,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0009",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0010",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0011",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0012",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0013",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0014",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0015",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0016",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0017",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0018",
+	"frame": {"x":1879,"y":1544,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0019",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0020",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0021",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0022",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0023",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0024",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0025",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0026",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0027",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0028",
+	"frame": {"x":1169,"y":1552,"w":137,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0029",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0030",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0031",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0032",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0033",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0034",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0035",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0036",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0037",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0038",
+	"frame": {"x":1109,"y":1332,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0039",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0040",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0041",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0042",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0043",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0044",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0045",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0046",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0047",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0048",
+	"frame": {"x":2,"y":1360,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0049",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0050",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0051",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0052",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0053",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0054",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0055",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0056",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0057",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_PokemonSelectButton_hoverImage0058",
+	"frame": {"x":826,"y":1393,"w":281,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":59},
+	"sourceSize": {"w":281,"h":59}
+}
+,{
+	"filename": "_SpeechBubble_arrow0000",
+	"frame": {"x":1736,"y":1080,"w":133,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":246},
+	"sourceSize": {"w":133,"h":246}
+}
+,{
+	"filename": "_SpeechBubble_bubble0000",
+	"frame": {"x":917,"y":1240,"w":572,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":90},
+	"sourceSize": {"w":572,"h":90}
+}
+,{
+	"filename": "_StatsBG0000",
+	"frame": {"x":1206,"y":504,"w":600,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":500},
+	"sourceSize": {"w":600,"h":500}
+}
+,{
+	"filename": "_Stats_cancelButton0000",
+	"frame": {"x":1978,"y":409,"w":28,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":33},
+	"sourceSize": {"w":28,"h":33}
+}
+,{
+	"filename": "_Stats_cancelButton0001",
+	"frame": {"x":2008,"y":409,"w":28,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":33},
+	"sourceSize": {"w":28,"h":33}
+}
+,{
+	"filename": "_Stats_cancelButton0002",
+	"frame": {"x":1991,"y":444,"w":28,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":33},
+	"sourceSize": {"w":28,"h":33}
+}
+,{
+	"filename": "_Stats_panelButton0000",
+	"frame": {"x":2,"y":1006,"w":539,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":539,"h":352},
+	"sourceSize": {"w":539,"h":352}
+}
+,{
+	"filename": "_Stats_panelButton0001",
+	"frame": {"x":2,"y":1006,"w":539,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":539,"h":352},
+	"sourceSize": {"w":539,"h":352}
+}
+,{
+	"filename": "_Stats_panelButton0002",
+	"frame": {"x":2,"y":1006,"w":539,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":539,"h":352},
+	"sourceSize": {"w":539,"h":352}
+}
+,{
+	"filename": "_Stats_panelButton0003",
+	"frame": {"x":2,"y":1006,"w":539,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":539,"h":352},
+	"sourceSize": {"w":539,"h":352}
+}
+,{
+	"filename": "_TreasureScreenBG0000",
+	"frame": {"x":604,"y":504,"w":600,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":500},
+	"sourceSize": {"w":600,"h":500}
+}
+,{
+	"filename": "_intro_characters_logo0000",
+	"frame": {"x":543,"y":1154,"w":372,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":372,"h":154},
+	"sourceSize": {"w":372,"h":154}
+}
+,{
+	"filename": "_underline0000",
+	"frame": {"x":285,"y":1415,"w":239,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":4},
+	"sourceSize": {"w":239,"h":4}
+}
+,{
+	"filename": "advanceDialogButton0000",
+	"frame": {"x":543,"y":1006,"w":600,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":146},
+	"sourceSize": {"w":600,"h":146}
+}
+,{
+	"filename": "advanceDialogButton0001",
+	"frame": {"x":543,"y":1006,"w":600,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":146},
+	"sourceSize": {"w":600,"h":146}
+}
+,{
+	"filename": "advanceDialogButton0002",
+	"frame": {"x":543,"y":1006,"w":600,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":146},
+	"sourceSize": {"w":600,"h":146}
+}
+,{
+	"filename": "advanceDialogButton0003",
+	"frame": {"x":543,"y":1006,"w":600,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":146},
+	"sourceSize": {"w":600,"h":146}
+}
+,{
+	"filename": "arrow0000",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0001",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0002",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0003",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0004",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0005",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0006",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0007",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0008",
+	"frame": {"x":2021,"y":53,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0009",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0010",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0011",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0012",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0013",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0014",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0015",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0016",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0017",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "arrow0018",
+	"frame": {"x":2021,"y":68,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+}
+,{
+	"filename": "backButton0000",
+	"frame": {"x":1991,"y":2,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+}
+,{
+	"filename": "backButton0001",
+	"frame": {"x":1991,"y":54,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+}
+,{
+	"filename": "backButton0002",
+	"frame": {"x":1991,"y":106,"w":28,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":50},
+	"sourceSize": {"w":28,"h":50}
+}
+,{
+	"filename": "basicLabeledButton0000",
+	"frame": {"x":285,"y":1360,"w":183,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":53},
+	"sourceSize": {"w":183,"h":53}
+}
+,{
+	"filename": "basicLabeledButton0001",
+	"frame": {"x":273,"y":1528,"w":183,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":53},
+	"sourceSize": {"w":183,"h":53}
+}
+,{
+	"filename": "basicLabeledButton0002",
+	"frame": {"x":458,"y":1556,"w":183,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":53},
+	"sourceSize": {"w":183,"h":53}
+}
+,{
+	"filename": "dialogBackground0000",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0001",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0002",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0003",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0004",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0005",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0006",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0007",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0008",
+	"frame": {"x":1145,"y":1126,"w":589,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0009",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0010",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0011",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0012",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0013",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0014",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0015",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0016",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0017",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0018",
+	"frame": {"x":543,"y":1310,"w":281,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0019",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0020",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0021",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0022",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0023",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0024",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0025",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0026",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0027",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0028",
+	"frame": {"x":2,"y":2,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":722,"y":-489,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0029",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0030",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0031",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0032",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0033",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0034",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0035",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0036",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0037",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "dialogBackground0038",
+	"frame": {"x":1145,"y":1006,"w":571,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":589,"h":118},
+	"sourceSize": {"w":589,"h":118}
+}
+,{
+	"filename": "elementSymbol0000",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0001",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0002",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0003",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0004",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0005",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0006",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0007",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0008",
+	"frame": {"x":2021,"y":99,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0009",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0010",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0011",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0012",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0013",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0014",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0015",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0016",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0017",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0018",
+	"frame": {"x":1991,"y":479,"w":26,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0019",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0020",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0021",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0022",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0023",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0024",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0025",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0026",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0027",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0028",
+	"frame": {"x":2033,"y":114,"w":8,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0029",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0030",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0031",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0032",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0033",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0034",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0035",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0036",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0037",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0038",
+	"frame": {"x":2021,"y":114,"w":10,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0039",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0040",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0041",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0042",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0043",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0044",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0045",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0046",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0047",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0048",
+	"frame": {"x":2021,"y":130,"w":8,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0049",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0050",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0051",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0052",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0053",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0054",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0055",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0056",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0057",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "elementSymbol0058",
+	"frame": {"x":2021,"y":83,"w":18,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":26,"h":17},
+	"sourceSize": {"w":26,"h":17}
+}
+,{
+	"filename": "female0000",
+	"frame": {"x":2021,"y":26,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25}
+}
+,{
+	"filename": "fightButton0000",
+	"frame": {"x":1109,"y":1393,"w":263,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":55},
+	"sourceSize": {"w":263,"h":55}
+}
+,{
+	"filename": "fightButton0001",
+	"frame": {"x":1374,"y":1393,"w":263,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":55},
+	"sourceSize": {"w":263,"h":55}
+}
+,{
+	"filename": "fightButton0002",
+	"frame": {"x":2,"y":1421,"w":263,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":55},
+	"sourceSize": {"w":263,"h":55}
+}
+,{
+	"filename": "grimace0000",
+	"frame": {"x":1808,"y":2,"w":181,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":230},
+	"sourceSize": {"w":181,"h":230}
+}
+,{
+	"filename": "helpButton0000",
+	"frame": {"x":1991,"y":158,"w":32,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":33},
+	"sourceSize": {"w":32,"h":33}
+}
+,{
+	"filename": "helpButton0001",
+	"frame": {"x":1991,"y":193,"w":32,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":33},
+	"sourceSize": {"w":32,"h":33}
+}
+,{
+	"filename": "helpButton0002",
+	"frame": {"x":1978,"y":259,"w":32,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":33},
+	"sourceSize": {"w":32,"h":33}
+}
+,{
+	"filename": "hoverImage0000",
+	"frame": {"x":1808,"y":234,"w":168,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":237},
+	"sourceSize": {"w":168,"h":237}
+}
+,{
+	"filename": "jigglypuff0000",
+	"frame": {"x":1808,"y":883,"w":181,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":195},
+	"sourceSize": {"w":181,"h":195}
+}
+,{
+	"filename": "male0000",
+	"frame": {"x":2021,"y":2,"w":22,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":22},
+	"sourceSize": {"w":22,"h":22}
+}
+,{
+	"filename": "miltank0000",
+	"frame": {"x":1808,"y":473,"w":181,"h":209},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":209},
+	"sourceSize": {"w":181,"h":209}
+}
+,{
+	"filename": "muteButton0000",
+	"frame": {"x":2012,"y":327,"w":32,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":31},
+	"sourceSize": {"w":32,"h":31}
+}
+,{
+	"filename": "muteButton0001",
+	"frame": {"x":1978,"y":328,"w":32,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":31},
+	"sourceSize": {"w":32,"h":31}
+}
+,{
+	"filename": "muteButton0002",
+	"frame": {"x":2012,"y":360,"w":32,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":31},
+	"sourceSize": {"w":32,"h":31}
+}
+,{
+	"filename": "petaLogo_nothing0000",
+	"frame": {"x":1308,"y":1595,"w":163,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":40},
+	"sourceSize": {"w":163,"h":40}
+}
+,{
+	"filename": "petaLogo_peta0000",
+	"frame": {"x":1473,"y":1595,"w":162,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":39},
+	"sourceSize": {"w":162,"h":39}
+}
+,{
+	"filename": "petaLogo_peta20000",
+	"frame": {"x":1922,"y":1491,"w":115,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":50},
+	"sourceSize": {"w":115,"h":50}
+}
+,{
+	"filename": "petaLogo_petaAsiaPacific0000",
+	"frame": {"x":809,"y":1552,"w":358,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":358,"h":32},
+	"sourceSize": {"w":358,"h":32}
+}
+,{
+	"filename": "petaLogo_petaIndia0000",
+	"frame": {"x":917,"y":1154,"w":217,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":51},
+	"sourceSize": {"w":217,"h":51}
+}
+,{
+	"filename": "petaLogo_petaKids0000",
+	"frame": {"x":917,"y":1207,"w":210,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":27},
+	"sourceSize": {"w":210,"h":27}
+}
+,{
+	"filename": "petaLogo_petaPresents0000",
+	"frame": {"x":1651,"y":1328,"w":118,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":87},
+	"sourceSize": {"w":118,"h":87}
+}
+,{
+	"filename": "pikachu0000",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0001",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0002",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0003",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0004",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0005",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0006",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0007",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0008",
+	"frame": {"x":1808,"y":684,"w":180,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0009",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0010",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0011",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0012",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0013",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0014",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0015",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0016",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0017",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0018",
+	"frame": {"x":1491,"y":1240,"w":158,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":25,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0019",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0020",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0021",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0022",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0023",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0024",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0025",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0026",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0027",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0028",
+	"frame": {"x":1871,"y":1283,"w":142,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0029",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0030",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0031",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0032",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0033",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0034",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0035",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0036",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0037",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pikachu0038",
+	"frame": {"x":1871,"y":1080,"w":146,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":180,"h":201},
+	"sourceSize": {"w":180,"h":201}
+}
+,{
+	"filename": "pokemonButton0000",
+	"frame": {"x":267,"y":1421,"w":262,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":51},
+	"sourceSize": {"w":262,"h":51}
+}
+,{
+	"filename": "pokemonButton0001",
+	"frame": {"x":531,"y":1424,"w":262,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":51},
+	"sourceSize": {"w":262,"h":51}
+}
+,{
+	"filename": "pokemonButton0002",
+	"frame": {"x":1639,"y":1440,"w":262,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":51},
+	"sourceSize": {"w":262,"h":51}
+}
+,{
+	"filename": "popLogo0000",
+	"frame": {"x":1978,"y":234,"w":68,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":23},
+	"sourceSize": {"w":68,"h":23}
+}
+,{
+	"filename": "popLogo0001",
+	"frame": {"x":1978,"y":393,"w":68,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":68,"h":23},
+	"sourceSize": {"w":68,"h":23}
+}
+,{
+	"filename": "unmuteButton0000",
+	"frame": {"x":2012,"y":259,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}
+,{
+	"filename": "unmuteButton0001",
+	"frame": {"x":2012,"y":293,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}
+,{
+	"filename": "unmuteButton0002",
+	"frame": {"x":1978,"y":294,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "ui-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

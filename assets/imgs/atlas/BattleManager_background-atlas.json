@@ -1,0 +1,323 @@
+{"frames": [
+
+{
+	"filename": "_BattleManager_background0000",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0001",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0002",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0003",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0004",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0005",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0006",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0007",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0008",
+	"frame": {"x":2,"y":2,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0009",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0010",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0011",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0012",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0013",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0014",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0015",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0016",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0017",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0018",
+	"frame": {"x":2,"y":507,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0019",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0020",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0021",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0022",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0023",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0024",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0025",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0026",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0027",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0028",
+	"frame": {"x":2,"y":1012,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0029",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0030",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0031",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0032",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0033",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0034",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0035",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0036",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0037",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}
+,{
+	"filename": "_BattleManager_background0038",
+	"frame": {"x":2,"y":1517,"w":600,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":503},
+	"sourceSize": {"w":600,"h":503}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "BattleManager_background-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Pokémon Red, White &amp; Blue - PETA Parody (Archive)</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="HandheldFriendly" content="true">
+
+    <style type="text/css">
+        @font-face {
+            font-family: 'Agency FB Bold';
+            src: url('assets/fonts/woff/9AgencyFBBold.woff');
+        }
+        @font-face {
+            font-family: 'Banda Regular';
+            src: url('assets/fonts/woff/76BandaRegular.woff');
+        }
+        @font-face {
+            font-family: 'Junegull-Regular';
+            src: url('assets/fonts/woff/51Junegull-Regular.woff');
+        }
+        @font-face {
+            font-family: 'Agency FB';
+            src: url('assets/fonts/woff/43AgencyFB.woff');
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script>
+        var customFontFamilies = ['Agency FB Bold', 'Banda Regular', 'Junegull-Regular', 'Agency FB'];
+        WebFont.load({
+            custom: {
+                families: customFontFamilies
+            }
+        });
+    </script>
+
+    <style>
+        html {
+            width: 100%;
+            height: 100%;
+            min-height: 100%;
+            background-color: #000000;
+        }
+        body {
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        .inputContainer {
+            position: fixed;
+            display: none;
+        }
+        .inputField {
+            font-family: "Banda Regular", serif;
+            outline: none;
+            background: transparent;
+            border: none;
+            color: white;
+        }
+        .inputField:focus {
+            outline: none;
+        }
+        .inputDiv {
+            position: absolute;
+        }
+        .inputFieldWidthHelper {
+            font-family: "Banda Regular", serif;
+            width: auto;
+            display: inline-block;
+            visibility: hidden;
+            position: fixed;
+            overflow: auto;
+        }
+    </style>
+
+    <script src="src/libs/polyfill.min.js"></script>
+    <script src="src/libs/phaser.min.js"></script>
+    <script src="assets/js/data.js"></script>
+    <!-- Stubs for original PETA analytics (tracking removed) -->
+    <script>
+        window.sendEvent = function(){};
+        window.petaGA_GameCategory_Game = "Game";
+    </script>
+    <script src="src/main.js"></script>
+</head>
+<body>
+<div id="inputContainer" class="inputContainer">
+    <div class="inputDiv" id="pokemonNameDiv">
+        <input class="inputField" type="text" id="pokemonInputId"/>
+        <div id="inputFieldWidthHelperID" class="inputFieldWidthHelper"></div>
+    </div>
+</div>
+</body>
+</html>

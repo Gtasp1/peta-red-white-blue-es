@@ -1,0 +1,75 @@
+{"frames": [
+
+{
+	"filename": "map00000",
+	"frame": {"x":1207,"y":505,"w":601,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":500},
+	"sourceSize": {"w":601,"h":500}
+}
+,{
+	"filename": "map10000",
+	"frame": {"x":604,"y":1086,"w":601,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":512},
+	"sourceSize": {"w":601,"h":512}
+}
+,{
+	"filename": "map1_main0000",
+	"frame": {"x":2,"y":1519,"w":600,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":500},
+	"sourceSize": {"w":600,"h":500}
+}
+,{
+	"filename": "map20000",
+	"frame": {"x":1207,"y":2,"w":601,"h":501},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":501},
+	"sourceSize": {"w":601,"h":501}
+}
+,{
+	"filename": "map2_main0000",
+	"frame": {"x":1207,"y":1509,"w":601,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":500},
+	"sourceSize": {"w":601,"h":500}
+}
+,{
+	"filename": "map30000",
+	"frame": {"x":2,"y":2,"w":600,"h":1515},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":1515},
+	"sourceSize": {"w":600,"h":1515}
+}
+,{
+	"filename": "map40000",
+	"frame": {"x":604,"y":2,"w":601,"h":1082},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":1082},
+	"sourceSize": {"w":601,"h":1082}
+}
+,{
+	"filename": "map50000",
+	"frame": {"x":1207,"y":1007,"w":601,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":500},
+	"sourceSize": {"w":601,"h":500}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "mapBackgrounds-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
