@@ -1,3 +1,5 @@
+> **Traducción al español (España).** Textos, nombres de movimientos, lugares y personajes adaptados a la terminología oficial de las ediciones españolas de Pokémon. Solo se han modificado `assets/js/data.js` (textos), `src/main.js` (nombre de los tipos y un respaldo para marcadores de plural), las fuentes de `assets/fonts/woff` (añadidos á í ó ú ü ñ ¡ ¿) y, en Black & Blue, los botones "Luchar"/"Pokémon" de `assets/imgs/atlas/ui-atlas.png`.
+
 # Pokémon Red, White & Blue (PETA Parody) – Offline Archive
 
 This is an offline mirror of the browser game **Pokémon: Red, White & Blue — An Unofficial PETA Parody** originally published by PETA at:
